@@ -23,7 +23,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+## Desktop design
+
+![](./screenshots/desktop-design.png)
+
+## Mobile design
+
+<p float='left'>
+  <img src='./screenshots/mobile-design-1.png' width='33%' />
+  <img src='./screenshots/mobile-design-2.png' width='33%' />
+  <img src='./screenshots/mobile-design-3.png' width='33%' />
+</p>
 
 ### Links
 
